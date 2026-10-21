@@ -30,3 +30,4 @@ if total:
     score = round(100 * passed / total)
     print()
     print(f"Drift Score: {score}/100  ({passed} of {total} claims true)")
+    
